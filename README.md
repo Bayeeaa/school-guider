@@ -1,4 +1,4 @@
-## 项目概述
+<img width="720" height="342" alt="image" src="https://github.com/user-attachments/assets/97901de4-7c9e-4a8a-8cd1-13efb73fcc78" />## 项目概述
 
 ### 项目背景
 
@@ -36,3 +36,4 @@ Python，Streamlit
 6. 生成思维导图
 
 
+<img width="720" height="342" alt="image" src="https://github.com/user-attachments/assets/b084cafc-4c0e-44e3-81e3-98bed10127c5" />
