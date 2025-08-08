@@ -1,14 +1,14 @@
 ## 项目概述
 
-### 项目背景
+**项目背景**
 
 基于现在大学生对未来的模糊，以及就业问题。如果使用普通大模型询问生涯规划问题往往给出的回答太泛，不具有专一性，也无法根据自己的实际情况给出意见。
 
-### 项目目标
+**项目目标**
 
 通过调用大语言，使用python脚本获取个人校园数据，获取网上近期热点数据，再由大模型整理输入变量，统一输入智能体给出专业性指导意见。
 
-### 解决的问题
+**解决的问题**
 
 1. 给出指导性意见
 2. 获得符合自身特点方案
@@ -22,11 +22,11 @@
 
 外部校园信息通过python爬虫脚本实现
 
-### 技术栈
+**技术栈**
 
 Python，Streamlit
 
-### 数据处理流程
+**数据处理流程**
 
 1. 通过聊天信息让大模型检索输入变量
 2. 通过脚本获取个人绩点、校园新闻信息输入智能体知识库
@@ -35,5 +35,14 @@ Python，Streamlit
 5. 通过变量、知识库、插件统一让智能体对未来方向作出判断或作出意见
 6. 生成思维导图
 
+## 实施细节
 
-<img width="720" height="342" alt="image" src="https://github.com/user-attachments/assets/b084cafc-4c0e-44e3-81e3-98bed10127c5" />
+**系统设计图**
+
+<img width="1296" height="670" alt="图片1" src="https://github.com/user-attachments/assets/7bb57a41-fdbc-4fb7-b9e7-7b115eaec0bb" />
+
+**代码片段**
+
+智能体设计：
+
+<img width="1920" height="912" alt="图片2" src="https://github.com/user-attachments/assets/e43ee3a0-df12-400e-9d3a-afb2e71331a0" />
