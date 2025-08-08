@@ -1,4 +1,4 @@
-<img width="720" height="342" alt="image" src="https://github.com/user-attachments/assets/97901de4-7c9e-4a8a-8cd1-13efb73fcc78" />## 项目概述
+## 项目概述
 
 ### 项目背景
 
